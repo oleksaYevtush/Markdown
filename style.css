@@ -1,0 +1,15 @@
+body {
+  background-color: #ff7f50;
+}
+.preview{
+  background-color: #fff;
+}
+textarea, .preview{
+  min-height: 400px;
+}
+textarea{
+  height: 400px;
+}
+.preview img {
+  max-width: 100%;  
+}
